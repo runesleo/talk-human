@@ -55,13 +55,13 @@ AI： 第一轮（指纹）：删掉「值得注意的是」「在当今时代�
 
 ## 关于作者
 
-**Leo** 出品 — solo builder，做 AI × crypto、预测市场和内容系统。
+*Leo（[@runes_leo](https://x.com/runes_leo)）— AI × Crypto 独立构建者。在 [Polymarket](https://polymarket.com/?via=runes-leo&r=runesleo&utm_source=github&utm_content=talk-human) 做量化，用 Claude Code 和 Codex 搭数据与内容管线。*
 
-- 🐦 X: [@runes_leo](https://x.com/runes_leo)
-- 🌐 网站: [leolabs.me](https://leolabs.me)
-- 📬 更多工具: [leolabs.me/stack](https://leolabs.me/stack)
+*[leolabs.me](https://leolabs.me) — 写作 · 社群 · 开源工具 · 独立项目*
 
-如果帮你省了时间，点个 ⭐ 让更多人看到。
+*[X 订阅](https://x.com/runes_leo/creator-subscriptions/subscribe) — 付费内容周刊*
+
+*Learn in public, Build in public.*
 
 ## License
 

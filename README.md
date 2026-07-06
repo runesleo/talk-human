@@ -53,15 +53,15 @@ AI:  Pass 1 (fingerprints): removed "it's worth noting", "in today's world"…
 
 No network calls. Runs fully local inside your agent. Your speaking samples and drafts never leave your machine — the skill only tells your AI how to process them.
 
-## Author
+## About the author
 
-Built by **Leo** — solo builder working on AI × crypto, prediction markets, and content systems.
+*Leo ([@runes_leo](https://x.com/runes_leo)) — AI × Crypto independent builder. Trading on [Polymarket](https://polymarket.com/?via=runes-leo&r=runesleo&utm_source=github&utm_content=talk-human), building data and content pipelines with Claude Code and Codex.*
 
-- 🐦 X: [@runes_leo](https://x.com/runes_leo)
-- 🌐 Site: [leolabs.me](https://leolabs.me)
-- 📬 More tools: [leolabs.me/stack](https://leolabs.me/stack)
+*[leolabs.me](https://leolabs.me) — writing · community · open-source tools · indie projects · all platforms.*
 
-If this saved you time, a ⭐ helps others find it.
+*[X Subscription](https://x.com/runes_leo/creator-subscriptions/subscribe) — paid content weekly, or just buy me a coffee 😁*
+
+*Learn in public, Build in public.*
 
 ## License
 
