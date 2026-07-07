@@ -3,7 +3,7 @@ name: talk-human
 description: 去 AI 味 + 让文字读起来像你自己说话。两个模式——build-my-voice（从你自己的说话样本生成一份"你的声音层"清单）和 deslop（按三轮把一篇稿子的 AI 味刮掉：去统计指纹→改字可读→对齐你的声音）。Use when 用户说 去AI味 / humanize / 让AI写的像我 / 建我的声音层 / deslop / make it sound like me，或要把 AI 初稿改成不像 AI、像本人口吻。NOT when 只是普通润色/翻译/扩写，或想绕过 AI 检测器（本 skill 不做 detector-evasion，只做"像真人、像你"）。
 ---
 
-# 说人话（TalkHuman）· 让 AI 写的像你说话
+# 说人话（talk-human）· 让 AI 写的像你说话
 
 AI 帮你写的初稿，怎么改得读起来像**你平时说话**——而不是像"一个 AI"或"一个泛泛的人"。
 
