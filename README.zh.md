@@ -8,6 +8,12 @@
 
 最值钱的一步交给 AI：把你自己说话的样本（比如语音转录）丢给它，它替你生成一份"你的声音层"，之后按这个改稿。你出样本，AI 出你的声音。
 
+## 作为插件安装
+
+- **Claude Code**（2.1.275 及以上）：`/plugin install talk-human --marketplace runesleo/x-reader`
+
+`runesleo` 插件市场里还有 Leo 的其他工具，见 [runesleo/x-reader](https://github.com/runesleo/x-reader)。
+
 ## 两个模式
 
 - **build-my-voice** — 从你的说话样本生成一份专属"声音层"清单（负向红线 + 正向硬条款）。

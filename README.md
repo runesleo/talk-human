@@ -8,6 +8,12 @@ A cross-agent skill. Not a detector-evasion toy — a systematic, auditable, mul
 
 The most valuable step is delegated to the AI: feed it a sample of how you actually talk (e.g. a voice transcript), and it generates a **"voice layer"** for you — then rewrites drafts against it. You supply the sample; the AI extracts your voice.
 
+## Install as a plugin
+
+- **Claude Code** (2.1.275 or later): `/plugin install talk-human --marketplace runesleo/x-reader`
+
+The `runesleo` marketplace also lists Leo's other tools; see [runesleo/x-reader](https://github.com/runesleo/x-reader).
+
 ## Two modes
 
 - **build-my-voice** — generate a personal "voice layer" checklist (negative red-lines + positive hard-rules) from your speaking samples.
