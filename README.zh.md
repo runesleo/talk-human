@@ -11,6 +11,7 @@
 ## 作为插件安装
 
 - **Claude Code**（2.1.275 及以上）：`/plugin install talk-human --marketplace runesleo/x-reader`
+- **Codex**：先 `codex plugin marketplace add runesleo/x-reader`，再 `codex plugin add talk-human@runesleo`
 
 `runesleo` 插件市场里还有 Leo 的其他工具，见 [runesleo/x-reader](https://github.com/runesleo/x-reader)。
 
@@ -23,7 +24,7 @@
 
 ### Claude Code / Claude agents（原生 skill）
 
-把整个文件夹放进你的 skills 目录：
+把 `skills/talk-human/` 文件夹放进你的 skills 目录：
 
 ```bash
 # 全局
@@ -36,10 +37,10 @@
 
 ### Cursor / Codex / Gemini CLI / ChatGPT / 任意 LLM
 
-不支持原生 skill 也能用——`references/` 里的文件是**自包含指令**，直接复制粘贴给你的 AI：
+不支持原生 skill 也能用——`skills/talk-human/references/` 里的文件是**自包含指令**，直接复制粘贴给你的 AI：
 
-- 要建声音层 → 贴 `references/build-voice.md`
-- 要去一篇稿子的 AI 味 → 贴 `references/deslop-pass.md`（有声音层就一起贴上）
+- 要建声音层 → 贴 `skills/talk-human/references/build-voice.md`
+- 要去一篇稿子的 AI 味 → 贴 `skills/talk-human/references/deslop-pass.md`（有声音层就一起贴上）
 
 ## 用法
 

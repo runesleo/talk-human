@@ -11,6 +11,7 @@ The most valuable step is delegated to the AI: feed it a sample of how you actua
 ## Install as a plugin
 
 - **Claude Code** (2.1.275 or later): `/plugin install talk-human --marketplace runesleo/x-reader`
+- **Codex**: `codex plugin marketplace add runesleo/x-reader`, then `codex plugin add talk-human@runesleo`
 
 The `runesleo` marketplace also lists Leo's other tools; see [runesleo/x-reader](https://github.com/runesleo/x-reader).
 
@@ -23,7 +24,7 @@ The `runesleo` marketplace also lists Leo's other tools; see [runesleo/x-reader]
 
 ### Claude Code / Claude agents (native skill)
 
-Drop the folder into your skills directory:
+Copy the `skills/talk-human/` folder into your skills directory:
 
 ```bash
 # global
@@ -36,10 +37,10 @@ Then just say: `build my voice layer` / `deslop this` / `make this sound like me
 
 ### Cursor / Codex / Gemini CLI / ChatGPT / any LLM
 
-No native skill support needed — the files under `references/` are **self-contained instructions**. Paste them into your AI:
+No native skill support needed — the files under `skills/talk-human/references/` are **self-contained instructions**. Paste them into your AI:
 
-- To build a voice layer → paste `references/build-voice.md`
-- To deslop a draft → paste `references/deslop-pass.md` (include your voice layer if you have one)
+- To build a voice layer → paste `skills/talk-human/references/build-voice.md`
+- To deslop a draft → paste `skills/talk-human/references/deslop-pass.md` (include your voice layer if you have one)
 
 ## Usage
 
