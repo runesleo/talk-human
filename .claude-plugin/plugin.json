@@ -1,0 +1,19 @@
+{
+  "name": "talk-human",
+  "version": "0.1.0",
+  "description": "Make AI-assisted writing sound like you: build a voice layer from your own speech samples, then run a three-pass de-slop edit.",
+  "author": {
+    "name": "Leo",
+    "url": "https://github.com/runesleo"
+  },
+  "homepage": "https://github.com/runesleo/talk-human",
+  "repository": "https://github.com/runesleo/talk-human",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "voice",
+    "deslop",
+    "chinese"
+  ],
+  "skills": "./"
+}
