@@ -9,6 +9,7 @@
   "homepage": "https://github.com/runesleo/talk-human",
   "repository": "https://github.com/runesleo/talk-human",
   "license": "MIT",
+  "privacyPolicyUrl": "https://github.com/runesleo/talk-human#data-and-network-access",
   "keywords": [
     "writing",
     "voice",

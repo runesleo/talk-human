@@ -56,9 +56,16 @@ AI:  Pass 1 (fingerprints): removed "it's worth noting", "in today's world"…
 
 **Never invent facts for you.** Delete, rewrite, reorder only — no new claims, numbers, or conclusions. The heavier the AI-ness, the less survives — because its "smoothness" is often just emptiness. This tool helps you see where it's hollow; the real substance you write yourself.
 
-## Privacy
+## Data and network access
 
-No network calls. Runs fully local inside your agent. Your speaking samples and drafts never leave your machine — the skill only tells your AI how to process them.
+talk-human is instructions only: Markdown files your agent reads. It ships no scripts and no MCP server, has no telemetry, and sends nothing to the author.
+
+| What | Where it goes |
+|---|---|
+| Your speaking samples, drafts, and voice layer | Only to the AI model your agent already uses, as part of your normal conversation with it. The skill makes no network calls of its own |
+| Installing the plugin | Your agent client downloads this repository from GitHub at a pinned commit. Nothing else is downloaded or installed |
+
+Stored on your machine: nothing by default. In build-my-voice mode the agent asks you to save the result as `voice-layer.md`, wherever you choose. The skill does not read credentials, environment variables, or other apps' data.
 
 ## About the author
 
